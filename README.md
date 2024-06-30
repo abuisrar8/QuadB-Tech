@@ -1,9 +1,9 @@
 # QuadB-Tech
 Tasks for Internship
 
-##Internship Test
+## Internship Test
 
-###Rust Developer Profile Set-1
+### Rust Developer Profile Set-1
 
 Questions:
 1. Implement a function that checks whether a given string is a palindrome or not.
